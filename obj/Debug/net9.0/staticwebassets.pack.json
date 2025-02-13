@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

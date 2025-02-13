@@ -12,6 +12,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 10:08:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FairShare/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"264423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 17:03:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FairShare/css/styles.mqe73e8z15.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mqe73e8z15"},{"Name":"integrity","Value":"sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="},{"Name":"label","Value":"_content/FairShare/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"264423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 17:03:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FairShare/FairShare.29xgjcnogh.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FairShare.29xgjcnogh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

@@ -95,3 +95,5 @@ c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝ
 c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\.NET\FairShare\obj\Debug\net9.0\ref\FairShare.dll
 c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\.NET\FairShare\obj\Debug\net9.0\compressed\c7vyqnq54w-29xgjcnogh.gz
 c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\.NET\FairShare\obj\Debug\net9.0\compressed\wpn0qx65c9-29xgjcnogh.gz
+c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\.NET\FairShare\obj\Debug\net9.0\FairShare.sourcelink.json
+c:\Users\maria\OneDrive - aueb.gr\ΣΧΟΛΗ\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\.NET\FairShare\obj\Debug\net9.0\compressed\7bmajf9a94-mqe73e8z15.gz

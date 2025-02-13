@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hkAJaXe3w/T9gjnPCDljG5JR2v7ElbEfzwc6brvJn/w=",
+  "Hash": "d6kgtRsl6VhzxpvvCFqLQVdtUqtC5HFCUrCgpxLwmYI=",
   "Source": "FairShare",
   "BasePath": "_content/FairShare",
   "Mode": "Default",
@@ -372,6 +372,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7bmajf9a94-mqe73e8z15.gz",
+      "SourceId": "FairShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FairShare",
+      "RelativePath": "css/styles#[.{fingerprint=mqe73e8z15}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p0uw0lco5f",
+      "Integrity": "B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css"
     },
     {
       "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7w6vus8dgt-pk9g2wxc8p.gz",
@@ -1422,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css",
+      "SourceId": "FairShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\",
+      "BasePath": "_content/FairShare",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mqe73e8z15",
+      "Integrity": "XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\favicon.ico",
@@ -3022,6 +3064,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7bmajf9a94-mqe73e8z15.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030513853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7bmajf9a94-mqe73e8z15.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.mqe73e8z15.css",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7bmajf9a94-mqe73e8z15.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030513853"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqe73e8z15"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.mqe73e8z15.css",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqe73e8z15"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmHXdPwPA7k40TtWIGvxip65xfSK2uZZqbsVKdGqYZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.mqe73e8z15.css.gz",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\7bmajf9a94-mqe73e8z15.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 17:03:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqe73e8z15"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B2ytCOcwb6OTQ8ekuubzLiUF7qqM30Nwj0Hcdi8FTfU="
         }
       ]
     },

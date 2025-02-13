@@ -1,6 +1,38 @@
 @{
-    ViewData["Title"] = "Welcome";
+    ViewData["Title"] = "User Payments History";
 }
 
-<h2>Welcome</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/css/styles.css" rel="stylesheet" />
 
+</head>
+<body>
+    <header class="masthead">
+        <div class="container">
+            <div class="masthead-heading text-uppercase" style="color: #A78B6D; margin-top: 10px;">User Payments History</div>
+        </div>
+        <div class="container">
+            @for(int i = 0; i < 5; i++)
+            {
+                <div class="row">
+                    <div class="col-12">
+                        <div class="list-group">
+                            <div class="list-group-item"> 
+                                <h5 class="mb-1">
+                                    <p class="mb-1">Payer:</p>
+                                </h5>
+                                <p class="mb-1">hello</p>
+                                <p class="mb-1">hee</p>
+                            </div>           
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </header>
+</body>
