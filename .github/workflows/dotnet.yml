@@ -22,7 +22,7 @@ jobs:
       with:
         dotnet-version: 9.0.x
     - name: Restore dependencies
-      run: dotnet restore FairShare-MVC.sln
+      run: dotnet restore FairShare.sln
     - name: Build
       run: dotnet build --no-restore
     - name: Test
