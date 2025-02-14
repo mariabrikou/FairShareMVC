@@ -2,27 +2,30 @@ namespace FairShare.Models;
 
 public class Payment 
 {
-    int paymentID {get;set;}
-    string paymentType {get;set;}
-    double amount {get;set;}
-    DateTime date {get;set;}
-    bool splitType {get;set;}
-    string usernamePayer {get;set;}
+    public int PaymentID {get;set;}
+    public string PaymentType {get;set;}
+    public double Amount {get;set;}
+    public DateTime Date {get;set;}
+    public bool SplitType {get;set;}
+    public string UsernamePayer {get;set;}
 
-    public Payment(string paymentType, double amount, DateTime date, bool splitType, string usernamePayer)
+    public Payment(string PaymentType, double Amount, DateTime Date, bool SplitType, string UsernamePayer)
     {
-        this.paymentType = paymentType;
-        this.amount = amount;
-        this.date = date;
-        this.splitType = splitType;
-        this.usernamePayer = usernamePayer;
+        this.PaymentType = PaymentType;
+        this.Amount = Amount;
+        this.Date = Date;
+        this.SplitType = SplitType;
+        this.UsernamePayer = UsernamePayer;
     }
 
     public Payment(string usernamePayer, double amount, DateTime date, int paymentID) {
-        this.usernamePayer = usernamePayer;
-        this.amount = amount;
-        this.date = date;
-        this.paymentID = paymentID;
+        this.UsernamePayer = usernamePayer;
+        this.Amount = amount;
+        this.Date = date;
+        this.PaymentID = paymentID;
+
+        this.PaymentType = "Null"; 
+        this.SplitType = false;
     }
 
 }
