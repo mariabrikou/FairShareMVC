@@ -9,10 +9,10 @@ namespace FairShare.Controllers{
         {
             return View();
         }
-        public IActionResult UserHistory()
+        public IActionResult UserHistory(int id)
         {
             PaymentModel paymentModel = new PaymentModel();
-            List<Payment> payments = paymentModel.GetPayments(1);
+            List<Payment> payments = paymentModel.GetPayments(id);
             
             return View(payments);
         }

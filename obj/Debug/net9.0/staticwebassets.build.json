@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d6kgtRsl6VhzxpvvCFqLQVdtUqtC5HFCUrCgpxLwmYI=",
+  "Hash": "UKoUFTmnEQxX8Im7uyuCKf49/dz3w0u3AHya4zWQAqk=",
   "Source": "FairShare",
   "BasePath": "_content/FairShare",
   "Mode": "Default",
@@ -708,6 +708,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jgx5ils5jz-5ipweew5fc.gz",
+      "SourceId": "FairShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FairShare",
+      "RelativePath": "js/menu#[.{fingerprint=5ipweew5fc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js"
     },
     {
       "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jj0rpxvgj3-47otxtyo56.gz",
@@ -1485,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js",
+      "SourceId": "FairShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\",
+      "BasePath": "_content/FairShare",
+      "RelativePath": "js/menu#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\menu.js"
     },
     {
       "Identity": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\site.js",
@@ -4256,6 +4298,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.5ipweew5fc.js",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jgx5ils5jz-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/menu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.5ipweew5fc.js",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/menu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.5ipweew5fc.js.gz",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jgx5ils5jz-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/menu.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.js",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jgx5ils5jz-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.js",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/menu.js.gz",
+      "AssetFile": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\obj\\Debug\\net9.0\\compressed\\jgx5ils5jz-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 00:24:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },

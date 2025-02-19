@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
       "Id": "c:\\Users\\maria\\OneDrive - aueb.gr\\ΣΧΟΛΗ\\5ο ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ\\.NET\\FairShare\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
