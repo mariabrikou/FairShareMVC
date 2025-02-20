@@ -8,11 +8,11 @@ namespace FairShare.Models
     public class PaymentModel 
     {
 
-        private  string dbServer = "195.251.249.131";
-        private  string dbServerPort = "3306";
-        private  string dbName = "ismgroup45";
-        private  string dbUsername = "ismgroup45";
-        private  string dbPassword = "jty$4#";
+        private  string dbServer = "";
+        private  string dbServerPort = "";
+        private  string dbName = "";
+        private  string dbUsername = "";
+        private  string dbPassword = "";
         public MySqlConnection Connection { get; private set; }
         public List<Payment> GetPayments(int userID)
         {
